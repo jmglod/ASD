@@ -1,6 +1,8 @@
 # Jakub Głód 417193
 # skonczone 21.04
 
+# heavily based on https://www.geeksforgeeks.org/insert-operation-in-b-tree/?ref=lbp
+
 class BNode:
 
     # Konstruktor pustego węzła o maksymalnej liczbie dzieci
