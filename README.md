@@ -1,2 +1,4 @@
 # Data Structures and Algorithms
- My academic projects about Data Structures and Algorithms (**polish** comments in code)
+My academic projects on Data Structures and Algorithms, completed between March and June 2024.
+
+📝 Note: Comments in the code are in Polish.
